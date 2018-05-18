@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#00b0f0</color>
+    <color name="colorAccent">#FFF</color>
+
+    <color name="white">#ffffff</color>
+    <color name="zeus">#00b0f0</color>
+    <color name="Transparent">#00000000</color>
+    <color name="grandStart">#181818</color>
+    <color name="grandStop">#101010</color>
+</resources>
